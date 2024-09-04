@@ -1,0 +1,25 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 100 120"
+    width="150"
+    height="250"
+>
+    <g transform="translate(0, 20)">
+        <path
+            d="M10,100 L90,100 L90,20 L10,20 Z"
+            fill="#ccc"
+            stroke="#999"
+            strokeWidth="2"
+        />
+        <path
+            id="fill"
+            d="M10,100 L90,100 L90,100 L10,100 Z"
+            fill="#4caf50"  
+        />
+        <path
+            d="M20,20 L80,20 L90,10 L10,10 Z"
+            fill="#999"
+        />
+    </g>
+</svg>
+

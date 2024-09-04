@@ -1,0 +1,13 @@
+@keyframes fill-animation {
+    from {
+        height: 0;
+    }
+    to {
+        height: 100%; /* This will be overridden by the fillLevel prop */
+    }
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}

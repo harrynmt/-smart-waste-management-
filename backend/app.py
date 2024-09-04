@@ -9,7 +9,8 @@ def get_waste_bins():
     # Sample data for demonstration
     waste_bins = [
         {'id': 1, 'fill_level': 75},
-        {'id': 2, 'fill_level': 50}
+        {'id': 2, 'fill_level': 50},
+        {'id': 3, 'fill_level': 100}
     ]
     return jsonify(waste_bins)
 
